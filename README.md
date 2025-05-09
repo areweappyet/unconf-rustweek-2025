@@ -4,7 +4,7 @@ A space to organize the Rust GUI and App Dev unconference that's colocated with 
 ## Quick Info
 * Date: Friday, May 16th, 2025.
 * Location: [DUS Utrecht](https://maps.app.goo.gl/iu2Q7KmN1J5KsPoo7). More info [here](https://rustweek.org/dus/).
-* We have **two** rooms at our disposal: Large (30 people) and Small (12 people).
+* We have [**two** rooms](https://rustweek.org/unconf/#rooms) at our disposal: Room 11 (larger, ~30 people) and Room 10 (smaller, ~12 people).
 * [Click here](https://docs.google.com/document/d/177DV1w3Q0mF7N17y8ZD3uij_mLGGlrTaOnrVw5we2uc/edit?usp=sharing) to see the notes from last year's unconference
 
 ## Using this repo
@@ -17,4 +17,4 @@ A space to organize the Rust GUI and App Dev unconference that's colocated with 
 
 ## Tentative Schedule
 
-9:30am - 17:00 (5:00pm), lunch TBD.
+9:30am - 17:00 (5:00pm), lunch provided. Doors open at 9am and close at 6pm.
