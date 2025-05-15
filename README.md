@@ -1,6 +1,8 @@
 # RustWeek Unconference for Rust GUI / App Dev 2025
 A space to organize the Rust GUI and App Dev unconference that's colocated with RustWeek 2025.
 
+{Here's a link](https://docs.google.com/document/d/13rgquzFZJ4C7f6-BSvkB-RNDv6_DIHIwDroS_T6nt0I/edit?usp=sharing) to the Google Doc with the tentative schedule and our collective notes.
+
 ## Quick Info
 * Date: Friday, May 16th, 2025.
 * Location: [DUS Utrecht](https://maps.app.goo.gl/iu2Q7KmN1J5KsPoo7). More info [here](https://rustweek.org/dus/).
@@ -17,4 +19,4 @@ A space to organize the Rust GUI and App Dev unconference that's colocated with 
 
 ## Tentative Schedule
 
-9:30am - 17:00 (5:00pm), lunch provided. Doors open at 9am and close at 6pm.
+9:30am - 17:30 (5:30pm), lunch provided. Doors open at 9am and close at 6pm.
