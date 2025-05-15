@@ -1,7 +1,7 @@
 # RustWeek Unconference for Rust GUI / App Dev 2025
 A space to organize the Rust GUI and App Dev unconference that's colocated with RustWeek 2025.
 
-{Here's a link](https://docs.google.com/document/d/13rgquzFZJ4C7f6-BSvkB-RNDv6_DIHIwDroS_T6nt0I/edit?usp=sharing) to the Google Doc with the tentative schedule and our collective notes.
+[Here's a link](https://docs.google.com/document/d/13rgquzFZJ4C7f6-BSvkB-RNDv6_DIHIwDroS_T6nt0I/edit?usp=sharing) to the Google Doc with the tentative schedule and our collective notes.
 
 ## Quick Info
 * Date: Friday, May 16th, 2025.
